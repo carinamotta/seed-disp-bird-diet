@@ -1,4 +1,3 @@
-# seed-disp-bird-diet
 # Seed dispersal and plant diet of fruit-eating birds in secondary Atlantic forest fragments
 Carina Isabella Motta
 
