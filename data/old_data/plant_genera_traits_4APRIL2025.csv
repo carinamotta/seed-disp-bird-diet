@@ -1,0 +1,76 @@
+plant_family,plant_genus,growth_form,origin,fruit_type,notes,juliano
+Bignoniaceae,Amphilophium,climbing,native,dry,,ok
+Malpighiaceae,Banisteriopsis,climbing,native,dry,,ok
+Rhamnaceae,Gouania,climbing,native,dry,,ok
+Boraginaceae,Myriopus,climbing,native,fleshy,,"ok, mas caso vc tenha alguma análise em relação às famílias, tem que considerar que não é consenso que Heliotropiaceae é de fato uma família à parte. A APG IV de 2016 considera que na verdade essa família está dentro de Boraginaceae."
+Rosaceae,Rubus,climbing,native,fleshy,,"eu diria que é vine/liana, não shrub"
+Sapindaceae,Serjania/Paullinia,climbing,native,fleshy,,"são lianas, não vines"
+Solanaeceae,Nicotiana,herbaceous,native,dry,,ok
+Poaceae,Oryza,herbaceous,exotic,dry,,"não é herbacea, é graminea (acho que grass ou graminoid são nomes corretos em ingles)"
+Solanaceae,Solanum,herbaceous,native,fleshy,,"provavelmente é um solanum mesmo, pq tem muitas espécies la nas suas areas. Mas solanum pode ser herbácea, arbusto ou arbóreo kkkkk"
+Asteraceae,Tilesia,herbaceous,exotic,fleshy,,"não há evidencias claras de que Tilesia seja exótica, mas o reflora aponta que sim. Então fica a seu critério"
+Solanaceae,Cestrum,shrub,native,fleshy,,"são shrubs, não tree"
+Amaranthaceae,Chamissoa,shrub,native,dry,,"growth form é shrub, mas as vezes liana. Mas nunca herbaceous"
+Verbenaceae,Lippia/Lantana,shrub,native,fleshy,,ok
+Moraceae,Morus,shrub,exotic,fleshy,,"esse genero é exótico, não há especies nativas"
+Piperaceae,Piper,shrub,native,fleshy,,ok
+Rubiaceae,Psychotria,shrub,native,fleshy,,ok
+Siparunaceae,Siparuna,shrub,native,fleshy,some arrialted,ok
+Primulaceae,Stylogyne,shrub,native,fleshy,,ok
+Fabaceae,Albizia,tree,native,dry,,ok
+Euphorbiaceae,Alchornea,tree,native,fleshy,arillated,ok
+Sapindaceae,Allophylus,tree,native,fleshy,,ok
+Apocynaceae,Aspidosperma,tree,native,dry,,ok
+Salicaceae,Casearia,tree,native,fleshy,,ok
+Urticaceae,Cecropia,tree,native,fleshy,,ok
+Fabaceae,Centrolobium,tree,native,dry,,ok
+Verbenaceae,Citharexylum,tree,native,fleshy,,ok
+Boraginaceae,Cordia,tree,native,fleshy,drupes,as especies de Cordia aqui da região são arvores
+Araliaceae,Dendropanax,tree,native,fleshy,,ok
+Myrtaceae,Eugenia,tree,native,fleshy,,ok
+Fabaceae,Leucaena,tree,exotic,dry,,ok
+Malvaceae,Luehea,tree,native,dry,,ok
+Moraceae,Maclura,tree,native,fleshy,,ok
+Melastomataceae,Miconia,tree,native,fleshy,,"aqui na região, quase todas são arvores"
+Myrtaceae,Myrcia,tree,native,fleshy,,"esse genero não existe mais, é tudo Myrcia agora"
+Lauraceae,Ocotea,tree,native,fleshy,,ok
+Myrtaceae,Psidium,tree,native,fleshy,,"ok, exceto se for goiaba, que não é nativa"
+Fabaceae,Senna,tree,native,dry,,ok
+Arecaceae,Syagrus,tree,native,fleshy,,ok
+Myrtaceae,Syzygium,tree,exotic,fleshy,,é exótico invasor mesmo
+Combretaceae,Terminalia,tree,native,dry,,ok
+Cannabaceae,Trema,tree,native,fleshy,,ok
+Meliaceae,Trichilia,tree,native,fleshy,arillated,ok
+Malpighiaceae,Bunchosia,shrub,native,fleshy,,
+Malpighiaceae,Byrsonima,tree,native,fleshy,,
+Fabaceae,Caesalpinia,tree,native,dry,"não existe mais, pau brasilia ",
+Myrtaceae,Calyptranthes,tree,native,fleshy,"não existe mais, Myrcia",
+Fabaceae,Chamaecrista,shrub,native,dry,,
+Sapotaceae,Chrysophyllum,tree,native,fleshy,,
+Rubiaceae,Coffea,shrub,exotic,fleshy,,
+Hydrangeaceae,Cornus,tree,exotic,fleshy,****,
+Fabaceae,Desmodium,herbaceous,native,dry,,
+Moraceae,Ficus,tree,native,fleshy,,
+Bignoniaceae,Fridericia,climbing,native,dry,,
+Sapindaceae,Gallesia,tree,native,dry,,
+Rubiaceae,Geophila,herbaceous,native,fleshy,,
+Bignoniaceae,Handroanthus,tree,native,dry,,
+Caricaceae,Jacaratia,tree,native,fleshy,,
+Acanthaceae,Justicia,herbaceous,native,dry,****,
+Lacistemataceae,Lacistema,tree,native,fleshy,arillated ,
+Anacardiaceae,Lithraea,tree,native,fleshy,,
+Fabaceae,Lonchocarpus,tree,native,dry,"check!! Muellera, Dahlsdeltia",
+Fabaceae,Machaerium,tree,native,dry,,
+Sapotaceae,Manilkara,tree,native,fleshy,,
+Sapindaceae,Matayba,tree,native,fleshy,arillated ,
+Rutaceae,Metrodorea,tree,native,dry,,
+Fabaceae,Mimosa,shrub,native,dry,,
+Myrtaceae,Myrcianthes,tree,native,fleshy,,
+Peraceae,Pera,tree,native,fleshy,arillated ,
+Salicaceae,Prockia,tree,native,fleshy,,
+Rosaceae,Pyrus,tree,exotic,fleshy,cultivated,
+Rhamnaceae,Rhamnidium,tree,native,fleshy,,
+Acanthaceae,Ruellia,herbaceous,native,dry,,
+Sarraceniaceae,Sarracenia,herbaceous,native,dry,cultivated,
+Anacardiaceae,Schinus,tree,native,fleshy,drupe,
+Rutaceae,Zanthoxylum,tree,native,fleshy,arillated,

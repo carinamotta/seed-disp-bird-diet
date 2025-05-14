@@ -1,0 +1,87 @@
+,plant_genus,plant_family,growth_form,origin,fruit_type,notes,juliano
+1,Casearia,Salicaceae,tree,native,fleshy,NA,ok
+2,Miconia,Melastomataceae,tree,native,fleshy,NA,"aqui na região, quase todas são arvores"
+3,Serjania/Paullinia,Sapindaceae,climbing,native,fleshy,NA,"são lianas, não vines"
+4,Allophylus,Sapindaceae,tree,native,fleshy,NA,ok
+5,Morus,Moraceae,shrub,exotic,fleshy,NA,"esse genero é exótico, não há especies nativas"
+6,Alchornea,Euphorbiaceae,tree,native,fleshy,arillated,ok
+7,Cestrum,Solanaceae,shrub,native,fleshy,NA,"são shrubs, não tree"
+8,Machaerium,Fabaceae,tree,native,dry,NA,NA
+9,Piper,Piperaceae,shrub,native,fleshy,NA,ok
+10,Rhamnidium,Rhamnaceae,tree,native,fleshy,NA,NA
+11,Solanum,Solanaceae,herbaceous,native,fleshy,NA,"provavelmente é um solanum mesmo, pq tem muitas espécies la nas suas areas. Mas solanum pode ser herbácea, arbusto ou arbóreo kkkkk"
+12,Syzygium,Myrtaceae,tree,exotic,fleshy,NA,é exótico invasor mesmo
+13,Trichilia,Meliaceae,tree,native,fleshy,arillated,ok
+14,Amaranthaceae,Amaranthaceae,NA,NA,NA,NA,NA
+15,Aspidosperma,Apocynaceae,tree,native,dry,NA,ok
+16,Bunchosia,Malpighiaceae,shrub,native,fleshy,NA,NA
+17,Cecropia,Urticaceae,tree,native,fleshy,NA,ok
+18,Cordia,Boraginaceae,tree,native,fleshy,drupes,as especies de Cordia aqui da região são arvores
+19,Eugenia,Myrtaceae,tree,native,fleshy,NA,ok
+20,Fridericia,Bignoniaceae,climbing,native,dry,NA,NA
+21,Gouania,Rhamnaceae,climbing,native,dry,NA,ok
+22,Lonchocarpus,Fabaceae,tree,native,dry,"check!! Muellera, Dahlsdeltia",NA
+23,Luehea,Malvaceae,tree,native,dry,NA,ok
+24,Manilkara,Sapotaceae,tree,native,fleshy,NA,NA
+25,Myriopus,Boraginaceae,climbing,native,fleshy,NA,"ok, mas caso vc tenha alguma análise em relação às famílias, tem que considerar que não é consenso que Heliotropiaceae é de fato uma família à parte. A APG IV de 2016 considera que na verdade essa família está dentro de Boraginaceae."
+26,Nicotiana,Solanaeceae,herbaceous,native,dry,NA,ok
+27,Pera,Peraceae,tree,native,fleshy,arillated,NA
+28,Psidium,Myrtaceae,tree,native,fleshy,NA,"ok, exceto se for goiaba, que não é nativa"
+29,Rubus,Rosaceae,climbing,native,fleshy,NA,"eu diria que é vine/liana, não shrub"
+30,Stylogyne,Primulaceae,shrub,native,fleshy,NA,ok
+31,Albizia,Fabaceae,tree,native,dry,NA,ok
+32,Amphilophium,Bignoniaceae,climbing,native,dry,NA,ok
+33,Banisteriopsis,Malpighiaceae,climbing,native,dry,NA,ok
+34,Byrsonima,Malpighiaceae,tree,native,fleshy,NA,NA
+35,Calyptranthes,Myrtaceae,tree,native,fleshy,"não existe mais, Myrcia",NA
+36,Centrolobium,Fabaceae,tree,native,dry,NA,ok
+37,Chamaecrista,Fabaceae,shrub,native,dry,NA,NA
+38,Chamissoa,Amaranthaceae,shrub,native,dry,NA,"growth form é shrub, mas as vezes liana. Mas nunca herbaceous"
+39,Chrysophyllum,Sapotaceae,tree,native,fleshy,NA,NA
+40,Citharexylum,Verbenaceae,tree,native,fleshy,NA,ok
+41,Coffea,Rubiaceae,shrub,exotic,fleshy,NA,NA
+42,Cornus,Hydrangeaceae,tree,exotic,fleshy,****,NA
+43,Dendropanax,Araliaceae,tree,native,fleshy,NA,ok
+44,Desmodium,Fabaceae,herbaceous,native,dry,NA,NA
+45,Justicia,Acanthaceae,herbaceous,native,dry,NA,NA
+46,Fabaceae_1,Fabaceae,NA,NA,NA,NA,NA
+47,Ficus,Moraceae,tree,native,fleshy,NA,NA
+48,Gallesia,Sapindaceae,tree,native,dry,NA,NA
+49,Geophila,Rubiaceae,herbaceous,native,fleshy,NA,NA
+50,Handroanthus,Bignoniaceae,tree,native,dry,NA,NA
+51,Jacaratia,Caricaceae,tree,native,fleshy,NA,NA
+52,Lacistema,Lacistemataceae,tree,native,fleshy,arillated,NA
+53,Lantanta,Verbenaceae,shrub,native,fleshy,NA,NA
+54,Leucaena,Fabaceae,tree,exotic,dry,NA,ok
+55,Lippia/Lantana,Verbenaceae,shrub,native,fleshy,NA,ok
+56,Lithraea,Anacardiaceae,tree,native,fleshy,NA,NA
+57,Maclura,Moraceae,tree,native,fleshy,NA,ok
+58,Matayba,Sapindaceae,tree,native,fleshy,arillated,NA
+59,Metrodorea,Rutaceae,tree,native,dry,NA,NA
+60,Mimosa,Fabaceae,shrub,native,dry,NA,NA
+61,Myrcia,Myrtaceae,tree,native,fleshy,NA,"esse genero não existe mais, é tudo Myrcia agora"
+62,Myrcianthes,Myrtaceae,tree,native,fleshy,NA,NA
+63,Myrciaria,Myrtaceae,tree,native,fleshy,NA,NA
+64,Myrtaceae_1,Myrtaceae,NA,NA,NA,NA,NA
+65,Myrtaceae_2,Myrtaceae,NA,NA,NA,NA,NA
+66,Ocotea,Lauraceae,tree,native,fleshy,NA,ok
+67,Oryza,Poaceae,herbaceous,exotic,dry,NA,"não é herbacea, é graminea (acho que grass ou graminoid são nomes corretos em ingles)"
+68,Prockia,Salicaceae,tree,native,fleshy,NA,NA
+69,Psychotria,Rubiaceae,shrub,native,fleshy,NA,ok
+70,Pyrus,Rosaceae,tree,exotic,fleshy,cultivated,NA
+71,Ruellia,Acanthaceae,herbaceous,native,dry,NA,NA
+72,Sarracenia,Sarraceniaceae,herbaceous,native,dry,cultivated,NA
+73,Schinus,Anacardiaceae,tree,native,fleshy,drupe,NA
+74,Senna,Fabaceae,tree,native,dry,NA,ok
+75,Siparuna,Siparunaceae,shrub,native,fleshy,some arrialted,ok
+76,Struthanthus,Loranthaceae,herbaceous,native,fleshy,NA,NA
+77,Syagrus,Arecaceae,tree,native,fleshy,NA,ok
+78,Terminalia,Combretaceae,tree,native,dry,NA,ok
+79,Tilesia,Asteraceae,herbaceous,exotic,fleshy,NA,"não há evidencias claras de que Tilesia seja exótica, mas o reflora aponta que sim. Então fica a seu critério"
+80,Trema,Cannabaceae,tree,native,fleshy,NA,ok
+81,unknown_1,NA,NA,NA,NA,NA,NA
+82,unknown_2,NA,NA,NA,NA,NA,NA
+83,unknown_3,NA,NA,NA,NA,NA,NA
+84,unknown_4,NA,NA,NA,NA,NA,NA
+85,unknown_5,NA,NA,NA,NA,NA,NA
+86,Zanthoxylum,Rutaceae,tree,native,fleshy,arillated,NA

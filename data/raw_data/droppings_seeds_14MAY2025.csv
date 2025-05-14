@@ -1,0 +1,89 @@
+date,plot,bird_species,sample,no_morpho,no_seeds,seed_morpho,notes
+10-Aug-2022,88,Turdus leucomelas,027,1,12,A,
+24-Aug-2022,64,Eucometis penicillata,040,1,56,B,lost 2 seeds
+24-Aug-2022,64,Cnemotriccus fuscatus,043,1,4,B,looks like 040
+26-Aug-2022,84,Nemosia pileata,050,1,6,B,3 seeds with genetic material
+26-Aug-2022,84,Eucometis penicillata,052,1,31,B,
+30-Aug-2022,206,Turdus leucomelas,053,2,22,B,
+30-Aug-2022,206,Turdus leucomelas,053,2,1,C,
+1-Sep-2022,207,Manacus manacus,064,1,25,E,
+7-Sep-2022,56,Tachyphonus coronatus,070,1,23,B,
+13-Sep-2022,56,Turdus leucomelas,073,2,20,B,
+13-Sep-2022,56,Turdus leucomelas,073,2,8,H,
+16-Sep-2022,90,Leptopogon amaurocephalus,075,1,7,B,
+21-Sep-2022,20,Eucometis penicillata,084,1,8,B,
+21-Sep-2022,20,Chiroxiphia galeata,087,1,1,I,
+4-Oct-2022,87,Arremon flavirostris,099,1,3,J,
+4-Oct-2022,87,Ramphocelus carbo,103,1,1,K,
+4-Oct-2022,87,Myiodynastes maculatus,104,2,1,B,
+4-Oct-2022,87,Myiodynastes maculatus,104,2,1,L,
+5-Oct-2022,207,Ramphocelus carbo,109,1,43,B,
+5-Oct-2022,207,Ramphocelus carbo,110,3,49,M,
+5-Oct-2022,207,Ramphocelus carbo,110,3,1,N,
+5-Oct-2022,207,Ramphocelus carbo,110,3,1,O,
+6-Oct-2022,206,Chiroxiphia galeata,113,1,2,P,
+13-Oct-2022,90,Chiroxiphia galeata,132,1,87,F,
+18-Oct-2022,20,Myiarchus ferox,136,1,1,B,"detected in DNA, but cut due to low reads"
+8-Nov-2022,90,Turdus amaurochalinus,181,1,41,E,~ 25 lost to dna extrac
+18-Nov-2022,56,Chiroxiphia galeata,195,3,2,T,red fruit bits
+18-Nov-2022,56,Chiroxiphia galeata,195,3,2,U,
+18-Nov-2022,56,Chiroxiphia galeata,195,3,15,V,
+19-Nov-2022,88,Turdus leucomelas,198,1,3,W,
+19-Nov-2022,88,Turdus amaurochalinus,199,1,1,X,
+19-Nov-2022,88,Turdus leucomelas,201,1,2,X,
+9-Dec-2022,87,Thraupis sayaca,212,2,8,E,check 212* for seeds
+9-Dec-2022,87,Thraupis sayaca,212,2,1,Y,check 212* for seeds
+23-Dec-2022,90,Pitangus sulphuratus,238,1,22,E,"count seeds in 238*, not sucessfully sequenced "
+23-Dec-2022,90,Myiarchus ferox,241,1,27,E,
+23-Dec-2022,90,Pitangus sulphuratus,242,1,20,E,
+23-Dec-2022,90,Pitangus sulphuratus,243,1,195,E,lost a seed or 2
+23-Dec-2022,90,Pitangus sulphuratus,244,1,56,E,
+23-Dec-2022,90,Myiarchus ferox,246,1,25,E,
+2-Jan-2023,88,Thlypopsis sordida,252,1,38,E,not successfully sequenced
+2-Jan-2023,88,Tachyphonus coronatus,253,1,55,E,
+2-Jan-2023,88,Chiroxiphia galeata,255,2,64,E,
+2-Jan-2023,88,Chiroxiphia galeata,255,2,1,Z,
+3-Jan-2023,84,Turdus leucomelas,257,1,6,AA,
+16-Jan-2023,22,Chiroxiphia galeata,268,3,1,AD,
+16-Jan-2023,22,Chiroxiphia galeata,268,3,4,AE,
+16-Jan-2023,22,Chiroxiphia galeata,268,3,1,AF,
+17-Jan-2023,87,Ramphocelus carbo,269,1,182,E,
+17-Jan-2023,87,Arremon flavirostris,271,1,10,E,
+18-Jan-2023,207,Tachyphonus coronatus,272,1,24,AG,
+14-Feb-2023,20,Manacus manacus,286,2,3,AA,
+14-Feb-2023,20,Manacus manacus,286,2,1,AC,
+14-Feb-2023,20,Manacus manacus,287,1,1,AA,
+14-Feb-2023,20,Chiroxiphia galeata,290,1,1,AI,
+8-Mar-2023,90,Chiroxiphia galeata,297,1,1,AJ,
+20-Mar-2023,207,Ramphocelus carbo,321,1,88,R,7 seeds in genetic material
+20-Mar-2023,207,Ramphocelus carbo,322,1,153,AK,8 seeds in genetic material
+27-Apr-23,88,Chiroxiphia galeata,360,1,71,G,removed 1 seed
+1-May-23,56,Lathrotriccus euleri,365,1,2,S,
+19-May-23,84,Chiroxiphia galeata,381,2,1,AM,
+19-May-23,84,Chiroxiphia galeata,381,2,2,P,
+23-May-23,207,Chiroxiphia galeata,384,1,20,E,couple of seeds in genetic material (added already to total)
+23-May-23,207,Chiroxiphia galeata,385,1,2,C,
+1-Jun-2023,56,Eucometis penicillata,400,1,5,AH,
+8-Jun-2023,87,Chiroxiphia galeata,410,2,1,AD,
+8-Jun-2023,87,Chiroxiphia galeata,410,2,3,G,I think they are undeveloped seeds of the big one in the sample
+13-Jun-2023,207,Chiroxiphia galeata,412,3,4,C,9 undeveloped seeds
+13-Jun-2023,207,Chiroxiphia galeata,412,3,78,E,
+13-Jun-2023,207,Chiroxiphia galeata,412,3,1,P,"orange pulp, like 113"
+23-Jun-2023,56,Tachyphonus coronatus,419,2,6,AG,
+23-Jun-2023,56,Tachyphonus coronatus,419,2,2,AH,
+23-Jun-2023,56,Tachyphonus coronatus,420,1,2,AG,
+29-Jun-2023,64,Tachyphonus coronatus,432,1,1,AN,"Casearia detected in DNA, definitely not Casearia "
+5-Jul-2023,20,Manacus manacus,437,1,2,AO,437* seeds
+11-Jul-2023,207,Chiroxiphia galeata,447,3,95,M,
+11-Jul-2023,207,Chiroxiphia galeata,447,3,4,E,
+11-Jul-2023,207,Chiroxiphia galeata,447,3,2,R,
+25-Jul-2023,64,Chiroxiphia galeata,458,3,7,P,
+25-Jul-2023,64,Chiroxiphia galeata,458,3,27,R,"2 small seeds with genetic material, added to total"
+25-Jul-2023,64,Chiroxiphia galeata,458,3,1,Q,"2 small seeds with genetic material, added to total"
+28-Jul-2023,20,Manacus manacus,468,3,1,AG,
+28-Jul-2023,20,Manacus manacus,468,3,1,AO,
+28-Jul-2023,20,Manacus manacus,468,3,60,D,
+2-Aug-2023,84,Turdus amaurochalinus,477,1,1,AQ,
+10-Aug-2023,207,Turdus leucomelas,481,1,4,AS,
+10-Aug-2023,207,Chiroxiphia galeata,482,2,2,AS,
+10-Aug-2023,207,Chiroxiphia galeata,482,2,100,F,

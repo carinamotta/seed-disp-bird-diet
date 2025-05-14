@@ -1,0 +1,80 @@
+"","plant_genus","plant_family","no_samples","samples_list","bird_spp_list","sequenced","family","growth_form","origin","fruit_type","juliano"
+"1","Albizia","Fabaceae",1,"136","Myiarchus ferox","Jul-2024","Fabaceae","tree","native","dry","ok"
+"2","Alchornea","Euphorbiaceae",3,"113, 122, 384","Chiroxiphia galeata, Eucometis penicillata","Nov-2023","Euphorbiaceae","tree","native","dry","ok"
+"3","Allophylus","Sapindaceae",5,"199, 201, 309, 326, 447","Turdus amaurochalinus, Turdus leucomelas, Leptopogon amaurocephalus, Chiroxiphia galeata","Nov-2023","Sapindaceae","tree","native","fleshy","ok"
+"4","Amphilophium","Bignoniaceae",1,"447","Chiroxiphia galeata","Jul-2024","Bignoniaceae","climbing","native","dry","ok"
+"5","Aspidosperma","Apocynaceae",2,"034, 136","Arremon flavirostris, Myiarchus ferox","Jul-2024","Apocynaceae","tree","native","dry","ok"
+"6","Banisteriopsis","Malpighiaceae",1,"246","Myiarchus ferox","Jul-2024","Malpighiaceae","climbing","native","dry","ok"
+"7","Bunchosia","Malpighiaceae",2,"001, 029","Arremon flavirostris, Thlypopsis sordida",NA,NA,NA,NA,NA,NA
+"8","Byrsonima","Malpighiaceae",1,"029","Thlypopsis sordida",NA,NA,NA,NA,NA,NA
+"9","Caesalpinia","Fabaceae",1,"004","Arremon flavirostris",NA,NA,NA,NA,NA,NA
+"10","Calyptranthes","Myrtaceae",1,"140","Chiroxiphia galeata",NA,NA,NA,NA,NA,NA
+"11","Casearia","Salicaceae",10,"001, 040, 043, 050, 052, 053, 070, 084, 272, 432","Arremon flavirostris, Eucometis penicillata, Cnemotriccus fuscatus, Nemosia pileata, Turdus leucomelas, Tachyphonus coronatus","Nov-2023","Salicaceae","tree","native","fleshy","ok"
+"12","Cecropia","Urticaceae",2,"110, 447","Ramphocelus carbo, Chiroxiphia galeata","Jul-2024","Urticaceae","tree","native","fleshy","ok"
+"13","Centrolobium","Fabaceae",1,"437","Manacus manacus","Jul-2024","Fabaceae","tree","native","dry","ok"
+"14","Cestrum","Solanaeceae",1,"110","Ramphocelus carbo","Nov-2023","Solanaceae","shrub","native","fleshy","são shrubs, não tree"
+"15","Cestrum","Solanaceae",1,"073","Turdus leucomelas","Nov-2023","Solanaceae","shrub","native","fleshy","são shrubs, não tree"
+"16","Chamaecrista","Fabaceae",1,"001","Arremon flavirostris",NA,NA,NA,NA,NA,NA
+"17","Chamissoa","Amaranthaceae",1,"419","Tachyphonus coronatus","Nov-2023","Amaranthaceae","shrub","native","dry","growth form é shrub, mas as vezes liana. Mas nunca herbaceous"
+"18","Chrysophyllum","Sapotaceae",1,"029","Thlypopsis sordida",NA,NA,NA,NA,NA,NA
+"19","Citharexylum","Verbenaceae",1,"447","Chiroxiphia galeata","Jul-2024","Verbenaceae","tree","native","fleshy","ok"
+"20","Coffea","Rubiaceae",1,"004","Arremon flavirostris",NA,NA,NA,NA,NA,NA
+"21","Cordia","Boraginaceae",2,"103, 132","Ramphocelus carbo, Chiroxiphia galeata","Nov-2023","Boraginaceae","tree","native","dry","as especies de Cordia aqui da região são arvores"
+"22","Cornus","Hydrangeaceae",1,"093","Thraupis sayaca",NA,NA,NA,NA,NA,NA
+"23","Dendropanax","Araliaceae",1,"132","Chiroxiphia galeata","Nov-2023","Araliaceae","tree","native","fleshy","ok"
+"24","Desmodium","Fabaceae",3,"001, 004, 034","Arremon flavirostris",NA,NA,NA,NA,NA,NA
+"25","Dianthera","Acanthaceae",1,"004","Arremon flavirostris",NA,NA,NA,NA,NA,NA
+"26","Eugenia","Myrtaceae",5,"001, 004, 198, 201, 406","Arremon flavirostris, Turdus leucomelas","Nov-2023","Myrtaceae","tree","native","fleshy","ok"
+"27","Ficus","Moraceae",1,"122","Eucometis penicillata",NA,NA,NA,NA,NA,NA
+"28","Fridericia","Bignoniaceae",2,"001, 309","Arremon flavirostris, Leptopogon amaurocephalus",NA,NA,NA,NA,NA,NA
+"29","Gallesia","Sapindaceae",1,"034","Arremon flavirostris",NA,NA,NA,NA,NA,NA
+"30","Geophila","Rubiaceae",1,"004","Arremon flavirostris",NA,NA,NA,NA,NA,NA
+"31","Gouania","Rhamnaceae",2,"110, 402","Ramphocelus carbo, Leptopogon amaurocephalus","Jul-2024","Rhamnaceae","climbing","native","dry","ok"
+"32","Handroanthus","Bignoniaceae",1,"093","Thraupis sayaca",NA,NA,NA,NA,NA,NA
+"33","Jacaratia","Caricaceae",1,"220","Thraupis sayaca",NA,NA,NA,NA,NA,NA
+"34","Justicia","Acanthaceae",1,"001","Arremon flavirostris",NA,NA,NA,NA,NA,NA
+"35","Lacistema","Lacistemataceae",1,"220","Thraupis sayaca",NA,NA,NA,NA,NA,NA
+"36","Leucaena","Fabaceae",1,"473","Thlypopsis sordida","Nov-2023","Fabaceae","tree","exotic","dry","ok"
+"37","Lippia/Lantana","Verbenaceae",1,"381","Chiroxiphia galeata","Nov-2023","Verbenaceae","shrub","native","fleshy","ok"
+"38","Lithraea","Anacardiaceae",1,"309","Leptopogon amaurocephalus",NA,NA,NA,NA,NA,NA
+"39","Lonchocarpus","Fabaceae",2,"029, 309","Thlypopsis sordida, Leptopogon amaurocephalus",NA,NA,NA,NA,NA,NA
+"40","Luehea","Malvaceae",2,"141, 473","Cnemotriccus fuscatus, Thlypopsis sordida","Nov-2023","Malvaceae","tree","native","dry","ok"
+"41","Machaerium","Fabaceae",3,"001, 178, 192","Arremon flavirostris, Myiarchus ferox, Eucometis penicillata",NA,NA,NA,NA,NA,NA
+"42","Maclura","Moraceae",1,"212","Thraupis sayaca","Jul-2024","Moraceae","tree","native","fleshy","ok"
+"43","Manilkara","Sapotaceae",2,"029, 093","Thlypopsis sordida, Thraupis sayaca",NA,NA,NA,NA,NA,NA
+"44","Matayba","Sapindaceae",1,"247","Myiarchus ferox",NA,NA,NA,NA,NA,NA
+"45","Metrodorea","Rutaceae",1,"001","Arremon flavirostris",NA,NA,NA,NA,NA,NA
+"46","Miconia","Melastomataceae",18,"064, 132, 136, 179, 181, 212, 241, 242, 243, 246, 247, 253, 255, 269, 271, 384, 447, 468","Manacus manacus, Chiroxiphia galeata, Myiarchus ferox, Stilpnia cayana, Turdus amaurochalinus, Thraupis sayaca, Pitangus sulphuratus, Tachyphonus coronatus, Ramphocelus carbo, Arremon flavirostris","Nov-2023","Melastomataceae","tree","native","fleshy","aqui na região, quase todas são arvores"
+"47","Mimosa","Fabaceae",1,"122","Eucometis penicillata",NA,NA,NA,NA,NA,NA
+"48","Morus","Moraceae",4,"001, 027, 122, 477","Arremon flavirostris, Turdus leucomelas, Eucometis penicillata, Turdus amaurochalinus","Nov-2023","Moraceae","shrub","exotic","fleshy","esse genero é exótico, não há especies nativas"
+"49","Myrcia","Myrtaceae",2,"087, 410","Chiroxiphia galeata","Jul-2024","Myrtaceae","tree","native","fleshy","esse genero não existe mais, é tudo Myrcia agora"
+"50","Myrcianthes","Myrtaceae",1,"200","Turdus leucomelas",NA,NA,NA,NA,NA,NA
+"51","Myriopus","Boraginaceae",1,"288","Manacus manacus","Nov-2023","Boraginaceae","climbing","native","fleshy","ok, mas caso vc tenha alguma análise em relação às famílias, tem que considerar que não é consenso que Heliotropiaceae é de fato uma família à parte. A APG IV de 2016 considera que na verdade essa família está dentro de Boraginaceae."
+"52","Myriopus","Heliotropiaceae",1,"286","Manacus manacus","Nov-2023","Boraginaceae","climbing","native","fleshy","ok, mas caso vc tenha alguma análise em relação às famílias, tem que considerar que não é consenso que Heliotropiaceae é de fato uma família à parte. A APG IV de 2016 considera que na verdade essa família está dentro de Boraginaceae."
+"53","Nicotiana","Solanaeceae",1,"099","Arremon flavirostris","Jul-2024","Solanaceae","herbaceous","native","dry","ok"
+"54","Ocotea","Lauraceae",1,"053","Turdus leucomelas","Nov-2023","Lauraceae","tree","native","fleshy","ok"
+"55","Oryza","Poaceae",1,"422","Turdus leucomelas","Nov-2023","Poaceae","herbaceous","exotic","dry","não é herbacea, é graminea (acho que grass ou graminoid são nomes corretos em ingles)"
+"56","Pera","Peraceae",1,"178","Myiarchus ferox",NA,NA,NA,NA,NA,NA
+"57","Piper","Piperaceae",3,"272, 322, 419","Tachyphonus coronatus, Ramphocelus carbo","Nov-2023","Piperaceae","shrub","native","fleshy","ok"
+"58","Prockia","Salicaceae",1,"288","Manacus manacus",NA,NA,NA,NA,NA,NA
+"59","Psidium","Myrtaceae",2,"244, 290","Pitangus sulphuratus, Chiroxiphia galeata","Nov-2023","Myrtaceae","tree","native","fleshy","ok, exceto se for goiaba, que não é nativa"
+"60","Psychotria","Rubiaceae",2,"113, 381","Chiroxiphia galeata","Nov-2023","Rubiaceae","shrub","native","fleshy","ok"
+"61","Pyrus","Rosaceae<U+00A0>",1,"093","Thraupis sayaca",NA,NA,NA,NA,NA,NA
+"62","Rhamnidium","Rhamnaceae",3,"122, 141, 309","Eucometis penicillata, Cnemotriccus fuscatus, Leptopogon amaurocephalus",NA,NA,NA,NA,NA,NA
+"63","Rubus","Rosaceae",1,"195","Chiroxiphia galeata","Nov-2023","Rosaceae","climbing","native","fleshy","eu diria que é vine/liana, não shrub"
+"64","Ruellia","Acanthaceae",2,"001, 004","Arremon flavirostris",NA,NA,NA,NA,NA,NA
+"65","Sarracenia","Sarraceniaceae",1,"029","Thlypopsis sordida",NA,NA,NA,NA,NA,NA
+"66","Schinus","Anacardiaceae",1,"330","Turdus leucomelas",NA,NA,NA,NA,NA,NA
+"67","Senna","Fabaceae",1,"257","Turdus leucomelas","Jul-2024","Fabaceae","tree","native","dry","ok"
+"68","Serjania/Paullinia","Sapindaceae",8,"029, 099, 286, 288, 308, 322, 447, 473","Thlypopsis sordida, Arremon flavirostris, Manacus manacus, Turdus leucomelas, Ramphocelus carbo, Chiroxiphia galeata","Nov-2023","Sapindaceae","climbing","native","fleshy","são lianas, não vines"
+"69","Siparuna","Siparunaceae",1,"297","Chiroxiphia galeata","Nov-2023","Siparunaceae","shrub","native","dry","ok"
+"70","Solanum","Solanaceae",3,"136, 321, 447","Myiarchus ferox, Ramphocelus carbo, Chiroxiphia galeata","Jul-2024","Solanaceae","herbaceous","native","fleshy","provavelmente é um solanum mesmo, pq tem muitas espécies la nas suas areas. Mas solanum pode ser herbácea, arbusto ou arbóreo kkkkk"
+"71","Solanum","Solanaeceae",1,"103","Ramphocelus carbo","Jul-2024","Solanaceae","herbaceous","native","fleshy","provavelmente é um solanum mesmo, pq tem muitas espécies la nas suas areas. Mas solanum pode ser herbácea, arbusto ou arbóreo kkkkk"
+"72","Stylogyne","Primulaceae",1,"482","Chiroxiphia galeata","Jul-2024","Primulaceae","shrub","native","fleshy","ok"
+"73","Syagrus","Arecaceae",1,"481","Turdus leucomelas","Jul-2024","Arecaceae","tree","native","fleshy","ok"
+"74","Syzygium","Myrtaceae",3,"029, 220, 257","Thlypopsis sordida, Thraupis sayaca, Turdus leucomelas","Jul-2024","Myrtaceae","tree","exotic","fleshy","é exótico invasor mesmo"
+"75","Terminalia","Combretaceae",1,"043","Cnemotriccus fuscatus","Jul-2024","Combretaceae","tree","native","dry","ok"
+"76","Tilesia","Asteraceae",1,"286","Manacus manacus","Nov-2023","Asteraceae","herbaceous","exotic","fleshy","não há evidencias claras de que Tilesia seja exótica, mas o reflora aponta que sim. Então fica a seu critério"
+"77","Trema","Cannabaceae",1,"287","Manacus manacus","Jul-2024","Cannabaceae","tree","native","fleshy","ok"
+"78","Trichilia","Meliaceae",2,"043, 412","Cnemotriccus fuscatus, Chiroxiphia galeata",NA,NA,NA,NA,NA,NA
+"79","Zanthoxylum","Rutaceae",1,"004","Arremon flavirostris",NA,NA,NA,NA,NA,NA

@@ -1,0 +1,89 @@
+date,plot,bird_species,sample,feces_collected,seeds,genetic,dna_extracted,no_morpho,no_seeds,morpho_spp,double_checked_CIM,OG tube discarded,kept_all,look for seeds in *,new_tube,rem_seeds,mg,notes
+10-Aug-22,88,Turdus leucomelas,027,y,1,1,1,1,12,A,X,,,,,,,
+24-Aug-22,64,Eucometis penicillata,040,y,1,1,0,1,56,B,X,,,,,X,,lost 2 seeds
+24-Aug-22,64,Cnemotriccus fuscatus,043,y,1,1,0,1,4,B,X,,,,,X,,looks like 040
+26-Aug-22,84,Nemosia pileata,050,y,1,1,0,1,6,B,X,,,,X,,40,3 seeds with genetic material
+26-Aug-22,84,Eucometis penicillata,052,y,1,1,1,1,31,B,X,,,,,,,
+30-Aug-22,206,Turdus leucomelas,053,y,1,1,1,2,22,B,X,,,,,,,
+30-Aug-22,206,Turdus leucomelas,053,y,1,1,1,2,1,C,X,,,,,,,
+1-Sep-22,207,Manacus manacus,064,y,1,1,1,1,25,E,X,,,,,,,
+7-Sep-22,56,Tachyphonus coronatus,070,y,1,1,1,1,23,B,X,,,,,,,
+13-Sep-22,56,Turdus leucomelas,073,y,1,1,1,2,20,B,X,,,,,,,
+13-Sep-22,56,Turdus leucomelas,073,y,1,1,1,2,8,H,X,,,,,,,
+16-Sep-22,90,Leptopogon amaurocephalus,075,y,1,1,0,1,7,B,X,,,,,X,,
+21-Sep-22,20,Eucometis penicillata,084,y,1,1,1,1,8,B,X,,,,,,,
+21-Sep-22,20,Chiroxiphia galeata,087,y,1,1,0,1,1,I,X,,,,X,,96,
+4-Oct-22,87,Arremon flavirostris,099,y,1,1,0,1,3,J,X,,,,X,,40,
+4-Oct-22,87,Ramphocelus carbo,103,y,1,1,0,1,1,K,X,,,,X,,60,
+4-Oct-22,87,Myiodynastes maculatus,104,y,1,1,0,2,1,B,X,,,,X,,50,
+4-Oct-22,87,Myiodynastes maculatus,104,y,1,1,0,2,1,L,X,,,,X,,50,
+5-Oct-22,207,Ramphocelus carbo,109,y,1,1,0,1,43,B,X,,,,X,,64,
+5-Oct-22,207,Ramphocelus carbo,110,y,1,1,0,3,49,M,X,,,,,,,
+5-Oct-22,207,Ramphocelus carbo,110,y,1,1,0,3,1,N,X,,,,,,,
+5-Oct-22,207,Ramphocelus carbo,110,y,1,1,0,3,1,O,X,,,,,X,,
+6-Oct-22,206,Chiroxiphia galeata,113,y,1,1,1,1,2,P,X,,,,,,,
+13-Oct-22,90,Chiroxiphia galeata,132,y,1,1,1,1,87,F,X,,,,,,,
+18-Oct-22,20,Myiarchus ferox,136,y,1,1,0,1,1,B,X,,,,,X,,"detected in DNA, but cut due to low reads"
+8-Nov-22,90,Turdus amaurochalinus,181,y,1,1,1,1,41,E,X,,,,,,,~ 25 lost to dna extrac
+18-Nov-22,56,Chiroxiphia galeata,195,y,1,1,1,3,2,T,X,,,,,,,red fruit bits
+18-Nov-22,56,Chiroxiphia galeata,195,y,1,1,1,3,2,U,X,,,,,,,
+18-Nov-22,56,Chiroxiphia galeata,195,y,1,1,1,3,15,V,X,,,,,,,
+19-Nov-22,88,Turdus leucomelas,198,y,1,1,1,1,3,W,X,,,,,,,
+19-Nov-22,88,Turdus amaurochalinus,199,y,1,1,1,1,1,X,X,,,,,,,
+19-Nov-22,88,Turdus leucomelas,201,y,1,1,1,1,2,X,X,,,,,,,
+9-Dec-22,87,Thraupis sayaca,212,y,1,1,0,2,8,E,X,,,,,,,check 212* for seeds
+9-Dec-22,87,Thraupis sayaca,212,y,1,1,0,2,1,Y,X,,,,,,,check 212* for seeds
+23-Dec-22,90,Pitangus sulphuratus,238,y,1,1,0,1,22,E,X,,X,,,,,"count seeds in 238*, not sucessfully sequenced "
+23-Dec-22,90,Myiarchus ferox,241,y,1,1,0,1,27,E,X,,,,X,,30,
+23-Dec-22,90,Pitangus sulphuratus,242,y,1,1,1,1,20,E,X,,,,,,,
+23-Dec-22,90,Pitangus sulphuratus,243,y,1,1,0,1,195,E,X,,,,X,,100,lost a seed or 2
+23-Dec-22,90,Pitangus sulphuratus,244,y,1,1,0,1,56,E,X,,,,X,,55,
+23-Dec-22,90,Myiarchus ferox,246,y,1,1,0,1,25,E,X,,,,X,,60,
+2-Jan-23,88,Thlypopsis sordida,252,y,1,1,0,1,38,E,X,,,,X,,20,not successfully sequenced
+2-Jan-23,88,Tachyphonus coronatus,253,y,1,1,1,1,55,E,X,,,,,,,
+2-Jan-23,88,Chiroxiphia galeata,255,y,1,1,1,2,64,E,X,,,,,,,
+2-Jan-23,88,Chiroxiphia galeata,255,y,1,1,1,2,1,Z,X,,,,,,,
+3-Jan-23,84,Turdus leucomelas,257,y,1,1,0,1,6,AA,X,,,,,X,,
+16-Jan-23,22,Chiroxiphia galeata,268,y,1,1,1,3,1,AD,X,,,,,,,
+16-Jan-23,22,Chiroxiphia galeata,268,y,1,1,1,3,4,AE,X,,,,,,,
+16-Jan-23,22,Chiroxiphia galeata,268,y,1,1,1,3,1,AF,X,,,,,,,
+17-Jan-23,87,Ramphocelus carbo,269,y,1,1,1,1,182,E,X,,,,,,,
+17-Jan-23,87,Arremon flavirostris,271,y,1,1,0,1,10,E,X,,X,,,,,
+18-Jan-23,207,Tachyphonus coronatus,272,y,1,1,0,1,24,AG,X,,,,X,,85,
+14-Feb-23,20,Manacus manacus,286,y,1,1,1,2,3,AA,,,,,,,,
+14-Feb-23,20,Manacus manacus,286,y,1,1,1,2,1,AC,,,,,,,,
+14-Feb-23,20,Manacus manacus,287,y,1,1,0,1,1,AA,X,,,,,X,,
+14-Feb-23,20,Chiroxiphia galeata,290,y,1,1,0,1,1,AI,X,,,,,X,,
+8-Mar-23,90,Chiroxiphia galeata,297,y,1,1,1,1,1,AJ,,,,,,,,
+20-Mar-23,207,Ramphocelus carbo,321,y,1,1,0,1,88,R,X,,,,x,,,7 seeds in genetic material
+20-Mar-23,207,Ramphocelus carbo,322,y,1,1,0,1,153,AK,X,,X,,,,,8 seeds in genetic material
+27-Abr-2023,88,Chiroxiphia galeata,360,y,1,1,1,1,71,G,X,,X,,,,,removed 1 seed
+01-Mai-2023,56,Lathrotriccus euleri,365,y,1,1,0,1,2,S,X,,,,X,,90,
+19-Mai-2023,84,Chiroxiphia galeata,381,y,1,1,1,2,1,AM,,,,,,,,
+19-Mai-2023,84,Chiroxiphia galeata,381,y,1,1,1,2,2,P,,,,,,,,
+23-Mai-2023,207,Chiroxiphia galeata,384,y,1,1,0,1,20,E,X,,,,,X,,couple of seeds in genetic material (added already to total)
+23-Mai-2023,207,Chiroxiphia galeata,385,y,1,1,0,1,2,C,X,,,,X,,60,
+1-Jun-23,56,Eucometis penicillata,400,y,1,1,0,1,5,AH,X,,,,,X,,
+8-Jun-23,87,Chiroxiphia galeata,410,y,1,1,1,2,1,AD,,,,,,,,
+8-Jun-23,87,Chiroxiphia galeata,410,y,1,1,1,2,3,G,X,,,,,,,I think they are undeveloped seeds of the big one in the sample
+13-Jun-23,207,Chiroxiphia galeata,412,y,1,1,1,3,4,C,X,,,,,,,9 undeveloped seeds
+13-Jun-23,207,Chiroxiphia galeata,412,y,1,1,1,3,78,E,X,,,,,,,
+13-Jun-23,207,Chiroxiphia galeata,412,y,1,1,1,3,1,P,X,,,,,,,"orange pulp, like 113"
+23-Jun-23,56,Tachyphonus coronatus,419,y,1,1,1,2,6,AG,X,,,,,,,
+23-Jun-23,56,Tachyphonus coronatus,419,y,1,1,1,2,2,AH,X,,,,,,,
+23-Jun-23,56,Tachyphonus coronatus,420,y,1,1,0,1,2,AG,X,,,,,X,,
+29-Jun-23,64,Tachyphonus coronatus,432,y,1,1,0,1,1,AN,X,,,,,X,,"Casearia detected in DNA, definitely not Casearia "
+5-Jul-23,20,Manacus manacus,437,y,1,1,0,1,2,AO,X,,X,,,,,437* seeds
+11-Jul-23,207,Chiroxiphia galeata,447,y,1,1,0,3,95,M,X,,,,X,,70,
+11-Jul-23,207,Chiroxiphia galeata,447,y,1,1,0,3,4,E,X,,,,X,,70,
+11-Jul-23,207,Chiroxiphia galeata,447,y,1,1,0,3,2,R,X,,,,X,,70,
+25-Jul-23,64,Chiroxiphia galeata,458,y,1,1,0,3,7,P,X,,,,X,,70,
+25-Jul-23,64,Chiroxiphia galeata,458,y,1,1,0,3,27,R,X,,,,X,,70,"2 small seeds with genetic material, added to total"
+25-Jul-23,64,Chiroxiphia galeata,458,y,1,1,0,3,1,Q,X,,,,X,,70,"2 small seeds with genetic material, added to total"
+28-Jul-23,20,Manacus manacus,468,y,1,1,1,3,1,AG,X,,,,,,,
+28-Jul-23,20,Manacus manacus,468,y,1,1,1,3,1,AO,X,,,,,,,
+28-Jul-23,20,Manacus manacus,468,y,1,1,1,3,60,D,X,,,,,,,
+2-Aug-23,84,Turdus amaurochalinus,477,y,1,1,0,1,1,AQ,,,,,X,,70,
+10-Aug-23,207,Turdus leucomelas,481,y,1,1,0,1,4,AS,X,,,,,X,,
+10-Aug-23,207,Chiroxiphia galeata,482,y,1,1,1,2,2,AS,,,,,,,,
+10-Aug-23,207,Chiroxiphia galeata,482,y,1,1,1,2,100,F,,,,,,,,

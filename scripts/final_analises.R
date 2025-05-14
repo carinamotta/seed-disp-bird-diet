@@ -39,39 +39,39 @@ package.list <- c("here", #so I don't have to deal with setting a WD
   
   #data collected from captures stored on Google Drive
   #https://tinyurl.com/2xp5dt45
-  captures <- readr::read_csv(here::here("dados","caps_30jan2024_new.csv"))
+  captures <- readr::read_csv(here::here("data","caps_30jan2024_new.csv"))
   
 ##2.2 LOAD SEED DATA----
   
   #seed count and identification
-  seeds <- readr::read_csv(here::here("dados","seeds_26JAN2024.csv"))
+  seeds <- readr::read_csv(here::here("data","seeds_26JAN2024.csv"))
   
   #seed morphospeices
-  morpho <- readr::read_csv(here::here("dados","morpho.csv"))
+  morpho <- readr::read_csv(here::here("data","morpho.csv"))
   
 ##2.3 LOAD FRUGIVORE DATA----
-  frug <- readr::read_csv(here::here("dados","frugs_26JAN2024.csv"))
+  frug <- readr::read_csv(here::here("data","frugs_26JAN2024.csv"))
   
 ##2.4 LOAD DIET DATA----
 
   #Load elton traits
-  elton.traits <- readr::read_tsv(here::here("dados","BirdFuncDat.txt"))
+  elton.traits <- readr::read_tsv(here::here("data","BirdFuncDat.txt"))
 
 
 ##2.5 LOAD PLOT DATA----
   
   #calculate abundance and diversity
-  plots <- readr::read_csv(here::here("dados","newfor_database.csv"))
+  plots <- readr::read_csv(here::here("data","newfor_database_filtered2.csv"))
   plots <- as_tibble(plots)
   
   #plot age, coordinates, forest cover (mapBiomas) 
-  plot_metadata <- readr::read_csv(here::here("dados", "plots_metadata.csv"))
+  plot_metadata <- readr::read_csv(here::here("data", "plots_metadata.csv"))
   plot_metadata <- as_tibble(plot_metadata)
 
 ##2.6 LOAD DIPSERAL DATA----
   
   #dispersal data of trees in plots
-  dispersal <- readr::read_csv(here::here("dados","dispersal.csv"))
+  dispersal <- readr::read_csv(here::here("data","dispersal.csv"))
 
 
 
