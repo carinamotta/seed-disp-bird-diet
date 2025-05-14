@@ -57,7 +57,6 @@ morpho <- readr::read_csv(here::here("data", "raw_data",
 elton.traits <- readr::read_tsv(here::here("data", "external_data", 
                                            "EltonTraits_14MAY2025.txt"))
 
-
 ## 2.4 Plot data----
 
 #plot survey data
@@ -319,9 +318,60 @@ species.summary$SDE <- species.summary$SDF*species.summary$cap_rate
 species.summary.seeds <- species.summary %>%
   filter(no_samples_seeds >= 1)
 
-#plot SDE landscape
-SDE_spp <- effectiveness_plot(species.summary.seeds$cap_rate, 
+error_SDF <- captures.seeds %>%
+  group_by(bird_species) %>%
+  summarize(SDF_se = sd(seeds) / sqrt(n()))
+
+species.summary.seeds <- merge(x=species.summary.seeds, y=error_SDF,
+                                by="bird_species", all.x =T)
+
+species.summary.seeds[is.na(species.summary.seeds)] <- 0
+
+net.hours.day <- captures.seeds %>%
+  distinct(day, .keep_all = TRUE) %>%
+  mutate(
+    nets_opened = as.POSIXct(nets_opened, format = "%H:%M:%S"), 
+    nets_closed = as.POSIXct(nets_closed, format = "%H:%M:%S"),
+    net_hours = as.numeric(difftime(nets_closed, nets_opened, 
+                                    units = "hours")) * 5
+  )
+
+all_dates <- unique(captures.seeds$day)
+all_species <- unique(captures.seeds$bird_species)
+
+full_grid <- expand.grid(day = all_dates, bird_species = all_species)
+
+capture_summary <- captures.seeds |> 
+  group_by(day, bird_species) |> 
+  summarise(captures = n(), .groups = "drop") # or count only unique individuals
+
+full_data_cap <- full_grid |> 
+  left_join(capture_summary, by = c("day", "bird_species")) |> 
+  mutate(captures = replace_na(captures, 0))
+
+full_data_cap <- full_data_cap |> 
+  left_join(net.hours.day  %>% select(day, net_hours),
+            by = "day")
+
+full_data_cap <- full_data_cap |> 
+  mutate(capture_rate = captures / net_hours)
+
+capture_rate_summary <- full_data_cap |> 
+  group_by(bird_species) |> 
+  summarise(
+    mean_rate = mean(capture_rate),
+    se_rate = sd(capture_rate) / sqrt(n())
+  )
+
+species.summary.seeds <- merge(x=species.summary.seeds, y=capture_rate_summary,
+                               by="bird_species", all.x =T)
+
+
+#plot SDE landscape-------
+SDE_spp <- effectiveness_plot(species.summary.seeds$mean_rate, 
                               species.summary.seeds$SDF, 
+                              q2.error = species.summary.seeds$SDF_se,
+                              q1.error = species.summary.seeds$se_rate,
                               label = species.summary.seeds$bird_species,  
                               myxlab = 
                                 "capture rate (no. captures/total net hours)", 
