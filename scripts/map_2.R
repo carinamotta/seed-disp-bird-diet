@@ -111,21 +111,37 @@ custom_colors <- c(
 )
 
 # Plot with ggplot2 - option 1
-ggplot() +
+map <- ggplot() +
   geom_raster(data = landcover_df, aes(x = x, y = y, fill = group)) +
   scale_fill_manual(values = custom_colors, name = "Land Cover") +
   geom_sf(data = study_area_proj, fill = NA, color = "black") +
   geom_sf(data = points_proj, color = "red", size = 2) +
   annotation_scale(location = "bl", width_hint = 0.3) +
-  annotation_north_arrow(location = "tl", which_north = "true",
-                         style = north_arrow_fancy_orienteering()) +
+  #annotation_north_arrow(location = "tl", which_north = "true",
+                         #style = north_arrow_fancy_orienteering()) +
   coord_sf(expand = FALSE) +
   theme_minimal() +
-  theme(panel.grid.major = element_line(color = "gray80")) +
+  theme(
+    panel.grid = element_line(color = "black", linewidth = 1),
+    panel.grid.minor = element_line(color = "black", linewidth = 1),
+    panel.border = element_rect(color = "black", fill = NA)) +
   scale_x_continuous(
   breaks = seq(-47.64, -47.55, by = 0.02),            # every ~0.02°
   labels = function(x) sprintf("%.2f°W", abs(x))      # nicer formatting
 )
+
+
+ggsave(
+  filename = here::here("results", "map_1.svg"),
+  plot = map,
+  width = 30, 
+  height = 20, 
+  units = "cm", 
+  dpi = 720)
+
+?ggsave
+
+??svglite
 
 ## FULL MAP ----
 
