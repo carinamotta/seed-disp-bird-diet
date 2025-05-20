@@ -370,8 +370,8 @@ species.summary.seeds <- merge(x=species.summary.seeds, y=capture_rate_summary,
 #plot SDE landscape-------
 SDE_spp <- effectiveness_plot(species.summary.seeds$mean_rate, 
                               species.summary.seeds$SDF, 
-                              q2.error = species.summary.seeds$SDF_se,
-                              q1.error = species.summary.seeds$se_rate,
+                              #q2.error = species.summary.seeds$SDF_se,
+                              #q1.error = species.summary.seeds$se_rate,
                               label = species.summary.seeds$bird_species,  
                               myxlab = 
                                 "capture rate (no. captures/total net hours)", 
@@ -517,6 +517,17 @@ SDE_log.frugdegree <- ggplot(species.summary.traits,
     strip.text = element_text(size = 9, face = "bold")
   )
 SDE_log.frugdegree
+
+
+ggsave(
+  filename = here::here("results", "SDE_frug_degree.svg"),
+  plot = SDE_log.frugdegree,
+  width = 30, 
+  height = 20, 
+  units = "cm", 
+  dpi = 720)
+
+graphics.off()
 
 # 6. PLOT-LEVEL ANALYSES ####
 

@@ -1,4 +1,6 @@
 .Rproj.user/**
 .Rproj.user
 data/old_data/newfor_database.csv
+data/external_data/brasil_coverage_2023.tif
+data/external_data/secondary_vegetation_age_2023.tif
 
