@@ -1,11 +1,27 @@
 
 # Load packages
-library(sf)
-library(terra)
-library(ggplot2)
-library(ggspatial)
-library(tmap)
-library(dplyr)
+
+# 1. LOAD PACKAGES -------------------------------------------------------------
+
+# a vector listing package names needed 
+
+package.list <- c("sf",
+                  "terra",
+                  "ggplot2",
+                  "ggspatial",
+                  "tmap",
+                  "dplyr",
+                  "geobr")
+
+#creating another list of new packages (if there are any)
+new.packages <- package.list[!(package.list %in% installed.packages()
+                               [,"Package"])]
+
+#installing the packages if they aren't already on the computer
+if(length(new.packages)) install.packages(new.packages)
+
+#and loading the packages into R with a for loop
+for(i in package.list){library(i, character.only = T)}
 
 
 
@@ -16,9 +32,6 @@ points <- readr::read_csv(here::here("data", "external_data",
 # Convert to sf object
 points_sf <- st_as_sf(points, coords = c("long_y", "lat_x"), crs = 4326)
 
-#create study area box
-#
-library(geobr)
 
 # Load municipality boundaries
 sp <- read_municipality(code_muni = 35, year = 2020)
